@@ -1,6 +1,6 @@
 ### Hey there! 
 
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning Docker Containers
 - 📫 How to reach me: email me on rishabh.preethan@gmail.com
 
 
