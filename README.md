@@ -1,7 +1,6 @@
 ### Hey there! 
 
-- 🌱 I’m currently learning Docker
-- 📫 How to reach me: email me on rishabh.preethan@gmail.com
+- How to reach me: email me on rishabh.preethan@gmail.com
 
 
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff">
