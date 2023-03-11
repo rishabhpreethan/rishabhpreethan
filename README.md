@@ -11,5 +11,5 @@
 ![](https://leetcard.jacoblin.cool/rishabhpreethan?ext=heatmap) 
 
 
-### GitHub stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpreethan&&theme=dark" alt="rishabhpreethan" /></p>
+<!-- ### GitHub stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpreethan&&theme=dark" alt="rishabhpreethan" /></p> -->
