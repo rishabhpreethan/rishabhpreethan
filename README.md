@@ -8,5 +8,4 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rishabhpreethan&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rishabhpreethan)](https://leetcode.com/rishabhpreethan) -->
-![](https://leetcard.jacoblin.cool/rishabhpreethan?ext=heatmap)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpreethan&&theme=dark" alt="rishabhpreethan" /></p>
+![](https://leetcard.jacoblin.cool/rishabhpreethan?ext=heatmap) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpreethan&&theme=dark" alt="rishabhpreethan" /></p>
