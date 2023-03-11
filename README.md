@@ -4,5 +4,5 @@
 - LinkedIn : www.linkedin.com/in/rishabhpreethan
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpreethan&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpreethan" /> </p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rishabhpreethan&count_private=true&show_icons=true&theme=radical) -->
