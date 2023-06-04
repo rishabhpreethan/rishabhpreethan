@@ -8,7 +8,7 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rishabhpreethan&count_private=true&show_icons=true&theme=dark) -->
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rishabhpreethan)](https://leetcode.com/rishabhpreethan) -->
-![](https://leetcard.jacoblin.cool/rishabhpreethan?ext=heatmap) 
+<!-- ![](https://leetcard.jacoblin.cool/rishabhpreethan?ext=heatmap)  -->
 
 
 <!-- ### GitHub stats
