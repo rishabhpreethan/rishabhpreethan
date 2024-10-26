@@ -3,6 +3,8 @@
 - How to reach me: email me on rishabh.preethan@gmail.com
 - LinkedIn : www.linkedin.com/in/rishabhpreethan
 
+- [![Rishabh profile views](https://u8views.com/api/v1/github/profiles/84002235/views/day-week-month-total-count.svg)](https://u8views.com/github/rishabhpreethan)
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpreethan&label=Profile%20views&color=orange&style=for-the-badge" alt="rishabhpreethan" /> </p> -->
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rishabhpreethan&count_private=true&show_icons=true&theme=dark) -->
