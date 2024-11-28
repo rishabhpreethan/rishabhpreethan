@@ -4,6 +4,8 @@
 - How to reach me: email me on rishabh.preethan@gmail.com
 - LinkedIn : www.linkedin.com/in/rishabhpreethan
 
+<a href=#><img src="contributions.svg"></a>
+
 [![Rishabh profile views](https://u8views.com/api/v1/github/profiles/84002235/views/day-week-month-total-count.svg)](https://u8views.com/github/rishabhpreethan)
 
 
